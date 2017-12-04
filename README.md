@@ -3,11 +3,9 @@ A decentralized verifiable ticketing solution on the Ethereum blockchain. Users 
 
 ### Prerequisites
 Before starting the demo, please install the following required files:
-```
-1. [Node.js](https://nodejs.org/en/) - Javascript runtime dependency for backend
-2. [Truffle](http://truffleframework.com/) - Development framework for Ethereum to compile and deploy contracts
+1. [Node.js](https://nodejs.org/en/) - Javascript runtime dependency for backend  
+2. [Truffle](http://truffleframework.com/) - Development framework for Ethereum to compile and deploy contracts  
 3. [web3](https://github.com/ethereum/web3.js/) - Javascript libraries to interact with local and remote Ethereum nodes
-```
 
 ## Deployment
 To view a demo with the existing deployed contract on the Rinkeby testnet, clone the repository and run `npm start` in the frontend folder. To setup and deploy your own instance of the contract, do the following:
@@ -19,4 +17,5 @@ To view a demo with the existing deployed contract on the Rinkeby testnet, clone
 
 
 ## Additional Information
-Slide Deck: [doc](https://docs.google.com/presentation/d/11tFecUtqm7dXYOa3N5Hqs9johPz-XcXnqwzNS13ZRKc/edit?usp=sharing)
+Slide Deck: [doc](https://docs.google.com/presentation/d/11tFecUtqm7dXYOa3N5Hqs9johPz-XcXnqwzNS13ZRKc/edit?usp=sharing)  
+Project Spec: [doc](https://docs.google.com/document/d/1i6fjkz7dGTws6KDWv0CP5jJ3fDOfGoojQllFuUx-F2w/edit)
